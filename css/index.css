@@ -152,7 +152,7 @@ body {
 }
 @media screen  and (max-width: 550px) {
     .content h1 {
-    font-size: 55px;
+    font-size: 40px;
     }
     .content .button a {
         padding: 8px 12px;
