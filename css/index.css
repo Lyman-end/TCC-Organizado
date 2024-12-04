@@ -73,8 +73,7 @@ body {
 }
 .content h1{
     color: #fff;
-    /* font-size: 55px; */
-    font-size: clamp(10rem, 5vw, 20rem);
+    font-size: 55px;
     text-transform: uppercase;
     text-align: center;
 }
@@ -143,18 +142,18 @@ body {
     .menu.active {
         display: flex;
     }
-    /* .content h1 {
+    .content h1 {
         font-size: 55px;
-    } */
+    }
     .content .button a {
         padding: 12px 18px;
         margin: 10px 10px;
     }
 }
 @media screen  and (max-width: 550px) {
-    /* .content h1 { */
-        /* font-size: 55px; */
-    /* } */
+    .content h1 {
+    font-size: 55px;
+    }
     .content .button a {
         padding: 8px 12px;
     }
