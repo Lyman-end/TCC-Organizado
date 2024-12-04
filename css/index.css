@@ -74,7 +74,7 @@ body {
 .content h1{
     color: #fff;
     /* font-size: 55px; */
-    font-size: clamp(2rem, 5vw, 4rem);
+    font-size: clamp(5rem, 5vw, 10rem);
     text-transform: uppercase;
     text-align: center;
 }
